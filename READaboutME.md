@@ -33,6 +33,7 @@ I'm passionate about eLearning, gamification, and technology. I believe that lea
 📫 How to reach me
 
 www.linkedin.com/in/catalinaramirez3
+
 Feel free to connect and share ideas! 🚀
 
 
