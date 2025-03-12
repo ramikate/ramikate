@@ -6,7 +6,7 @@ I'm passionate about eLearning, gamification, and technology. I believe that lea
 
 🌱 Currently learning
 
-- Full-stack development 🖥️
+- Programming: C, Python, JavaScript, nodeJs, React 💻
 - Educational technology and gamification 🎮
 - Automation and AI integrations 🤖
 
