@@ -6,7 +6,7 @@ I'm passionate about eLearning, gamification, and technology. I believe that lea
 
 🌱 Currently learning
 
-- Programming: C, Python, JavaScript, nodeJs, React 💻
+- Programming: C, Python, JavaScript, nodeJs, React, C 💻
 - Educational technology and gamification 🎮
 - Automation and AI integrations 🤖
 
@@ -14,7 +14,7 @@ I'm passionate about eLearning, gamification, and technology. I believe that lea
 
 💡 What I'm working on
 
-🚀 Building an MVP for a gamified learning platform using Discord bots!
+🚀 Building an MVP for a gamified learning platform using Discord bots (migrating to React!)
 - Using MEE6, TriviaBot, and Zapier to create an interactive learning experience
 - Exploring role-based progression, XP rewards, and real-world challenges
 - Testing the concept before expanding into a full-fledged platform
